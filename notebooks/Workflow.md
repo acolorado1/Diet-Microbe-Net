@@ -76,3 +76,13 @@ Some classification of compounds was the following:
 |Organosulfur compounds|7|3|
 |Phenylpropanoids and polyketides| 100 |63|
 
+## KEGG KOs 
+
+Through the KEGG API one can query KEGG and get all organism associated KOs. Tools like AMON can then be used to predict compounds that may be involved in metabolism based on these KOs. 
+
+Here I will define my diets as the following: 
+
+- **Western**: cow (bta), pork (ssc), bread wheat (taes), and japanese rice (osa)
+- **Agrarian**: grape (vvi), carrot (dcr), chicken (gga), corn (zma)
+
+I have also cross referenced these organisms with the ones in FooDB to ensure that there is consistency between species. For example, I will not be comparing different different species of rice or corn. 
