@@ -1,0 +1,545 @@
+"","external_id","compound_id","annotations"
+"1","C00483",433,"Biogenic amines
+Tyramine derivatives
+"
+"2","C02495",442,"Isoflavonoids
+isoflavones
+"
+"3","C00082",446,"Common amino acids
+"
+"4","C07480",455,"Purine alkaloids
+"
+"5","C10172",463,"Pyrrolidine alkaloids
+"
+"6","C00183",465,"Common amino acids
+"
+"7","C00047",474,"Common amino acids
+"
+"8","C00037",484,"Common amino acids
+Amino acids
+"
+"9","C00263",522,"Other amino acids
+"
+"10","C00408",546,"Piperidine alkaloids
+"
+"11","C00041",556,"Common amino acids
+"
+"12","C02477",565,"Vitamin E
+Fat-soluble vitamins
+"
+"13","C00355",567,"Other amino acids
+Biogenic amines
+"
+"14","C00148",570,"Common amino acids
+"
+"15","C00314",574,"Water-soluble vitamins
+"
+"16","C05903",633,"Flavones and Flavonols
+flavonols
+"
+"17","C00509",678,"Flavanones
+"
+"18","C05631",688,"Flavanones
+"
+"19","C14536",698,"Isoflavonoids
+isoflavones
+"
+"20","C17715",700,"Straight chain fatty acids
+"
+"21","C00114",710,"Pesticides
+"
+"22","C00116",756,"Glycerols
+"
+"23","C00189",769,"Biogenic amines
+"
+"24","C00152",787,"Common amino acids
+"
+"25","C00398",917,"Indole alkaloids
+"
+"26","C00954",933,"Indole alkaloids
+Auxins
+"
+"27","C05377",953,"Vitamin K
+Fat-soluble vitamins
+"
+"28","C00829",954,"Fumigants
+"
+"29","C00253",1014,"Water-soluble vitamins
+Pyridine alkaloids
+"
+"30","C09315",1094,"coumarins
+"
+"31","C00089",1131,"Disaccharides
+"
+"32","C00181",1136,"Aldoses
+"
+"33","C05402",1204,"Disaccharides
+"
+"34","C14155",1298,"Vitamin E
+"
+"35","C08821",1315,"Stigmasterols and C24-ethyl derivatives
+stigmastane
+"
+"36","C00341",1463,"Acyclic monoterpenoids
+Linear monoterpenes
+"
+"37","C09833",1472,"Flavanones
+"
+"38","C00134",1494,"Biogenic amines
+"
+"39","C00575",1497,"3',5'-Cyclic nuclcleotides
+"
+"40","C00051",1498,"Coenzymes
+"
+"41","C01762",1604,"Purine alkaloids
+"
+"42","C00123",1946,"Common amino acids
+"
+"43","C00385",1977,"Purine alkaloids
+"
+"44","C02105",2089,"Isoquinoline alkaloids
+"
+"45","C07481",2100,"Purine alkaloids
+"
+"46","C01004",2237,"Pyridine alkaloids
+"
+"47","C00078",2250,"Common amino acids
+"
+"48","C00062",2257,"Common amino acids
+"
+"49","C05688",2262,"Other amino acids
+"
+"50","C14151",2432,"Vitamin E
+"
+"51","C14153",2434,"Vitamin E
+"
+"52","C03582",2451,"Diphenyl ethers, biphenyls, dibenzyls and stilbenes
+Stilbenes
+"
+"53","C05625",2536,"flavonols
+"
+"54","C01557",2542,"Furanocoumarins
+"
+"55","C06562",2571,"Flavans, Flavanols and Leucoanthocyanidins
+Flavan 3-ols
+Condensed tannins (Proanthocyanidins)
+"
+"56","C09727",2576,"Flavans, Flavanols and Leucoanthocyanidins
+Flavan 3-ols
+Condensed tannins (Proanthocyanidins)
+"
+"57","C04293",2579,"flavones
+"
+"58","C00852",2582,"Caffeate derivatives
+"
+"59","C00811",2593,"Paracoumaryl alcohol derivatives
+"
+"60","C10208",2608,"Isoflavonoids
+isoflavones
+"
+"61","C12140",2714,"Anthocyanidins
+Anthocyanidins and anthocyanins
+"
+"62","C01477",2798,"Flavones and Flavonols
+flavones
+"
+"63","C00974",2806,"Dihyroflavonols
+"
+"64","C06424",2890,"Straight chain fatty acids
+Saturated fatty acids
+"
+"65","C06425",2928,"Straight chain fatty acids
+Saturated fatty acids
+"
+"66","C08323",2935,"Unsaturated fatty acids
+Monounsaturated fatty acids
+"
+"67","C01530",2942,"Straight chain fatty acids
+Saturated fatty acids
+"
+"68","C02679",3011,"Straight chain fatty acids
+Saturated fatty acids
+"
+"69","C13870",3100,"Triacylglycerols
+"
+"70","C06428",3103,"Unsaturated fatty acids
+Polyunsaturated fatty acids
+Liner triterpenes
+"
+"71","C01601",3307,"Straight chain fatty acids
+"
+"72","C06423",3337,"Straight chain fatty acids
+Saturated fatty acids
+"
+"73","C01545",3340,"Fatty aldehydes
+"
+"74","C00109",3360,"Oxo fatty acids
+"
+"75","C00212",3555,"Ribonucleosides
+"
+"76","C00387",3633,"Ribonucleosides
+"
+"77","C00262",3950,"Purine alkaloids
+"
+"78","C00745",3969,"Pesticides
+Alkaloids
+Pyridine alkaloids
+"
+"79","C00242",4223,"purines
+"
+"80","C01598",4235,"Indole alkaloids
+Melatonin
+"
+"81","C08316",4288,"Unsaturated fatty acids
+Monounsaturated fatty acids
+"
+"82","C01802",5375,"Cholesterol and derivatives
+Cholestane and derivatives
+"
+"83","C00106",6427,"pyrimidines
+"
+"84","C08620",7050,"Anthocyanidins
+Anthocyanidins and anthocyanins
+"
+"85","C00299",7412,"Ribonucleosides
+"
+"86","C00105",7509,"Ribonucleotides
+"
+"87","C00015",7510,"Ribonucleotides
+"
+"88","C17714",8052,"Straight chain fatty acids
+"
+"89","C00163",8286,"Straight chain fatty acids
+Saturated fatty acids
+"
+"90","C01471",8308,"Pesticides
+"
+"91","C00179",8311,"Amines
+"
+"92","C02001",8313,"Pesticides
+"
+"93","C02920",8384,"isoflavones
+"
+"94","C00378",8426,"Water-soluble vitamins
+"
+"95","C00423",8785,"Monolignols
+"
+"96","C00334",8938,"Amino fatty acids
+Other amino acids
+Biogenic amines
+"
+"97","C00184",9295,"Ketoses
+"
+"98","C00087",9600,"Inorganic fungicides
+"
+"99","C16537",10035,"Straight chain fatty acids
+"
+"100","C00482",10559,"Sinapate derivatives
+"
+"101","C05332",10582,"Biogenic amines
+"
+"102","C00250",11172,"Water-soluble vitamins
+"
+"103","C00436",11502,"Amines
+"
+"104","C00535",11547,"C19 steroids (androgens) and derivatives
+androstane
+Androstane and derivatives
+Androgens
+"
+"105","C01180",11629,"Oxo fatty acids
+"
+"106","C08362",11678,"Unsaturated fatty acids
+Monounsaturated fatty acids
+"
+"107","C00249",11682,"Straight chain fatty acids
+Saturated fatty acids
+"
+"108","C01594",11812,"Cyanogenic glucosides derived from valine or isoleucine
+"
+"109","C06563",11831,"Isoflavonoids
+isoflavones
+"
+"110","C00327",11844,"Other amino acids
+"
+"111","C00135",11859,"Common amino acids
+"
+"112","C00219",11875,"Unsaturated fatty acids
+Polyunsaturated fatty acids
+"
+"113","C00389",11907,"Flavones and Flavonols
+flavonols
+"
+"114","C05851",11941,"coumarins
+Phenylpropanoids
+"
+"115","C00188",12002,"Common amino acids
+"
+"116","C01571",12030,"Straight chain fatty acids
+Saturated fatty acids
+"
+"117","C00246",12065,"Straight chain fatty acids
+Saturated fatty acids
+"
+"118","C00255",12163,"Water-soluble vitamins
+"
+"119","C10453",12174,"Monolignols
+"
+"120","C17639",12207,"Proanthocyanidins
+"
+"121","C00858",12222,"Isoflavonoids
+isoflavones
+"
+"122","C00814",12226,"Isoflavonoids
+isoflavones
+"
+"123","C10216",12228,"Isoflavonoids
+isoflavones
+"
+"124","C00141",12253,"Branched fatty acids
+"
+"125","C00147",12269,"purines
+"
+"126","C11049",12343,"Brassinolides and derivatives
+ergostane
+"
+"127","C02059",12360,"Vitamin K
+Fat-soluble vitamins
+"
+"128","C01753",12365,"Stigmasterols and C24-ethyl derivatives
+stigmastane
+"
+"129","C00407",12400,"Common amino acids
+"
+"130","C10486",12401,"Isoflavonoids
+isoflavones
+"
+"131","C06427",12465,"Unsaturated fatty acids
+Polyunsaturated fatty acids
+"
+"132","C02277",12486,"Fatty alcohols
+"
+"133","C00153",12488,"Water-soluble vitamins
+Pyridine alkaloids
+"
+"134","C00031",12533,"Aldoses
+"
+"135","C00025",12538,"Common amino acids
+Amino acids
+"
+"136","C00049",12570,"Common amino acids
+Amino acids
+"
+"137","C00388",12599,"Biogenic amines
+Histamine
+"
+"138","C09305",12608,"Furanocoumarins
+"
+"139","C08322",12636,"Unsaturated fatty acids
+Monounsaturated fatty acids
+"
+"140","C00097",12681,"Common amino acids
+"
+"141","C00073",12686,"Common amino acids
+"
+"142","C10107",12727,"Flavones and Flavonols
+flavonols
+"
+"143","C00065",12742,"Common amino acids
+"
+"144","C01595",12763,"Unsaturated fatty acids
+Polyunsaturated fatty acids
+"
+"145","C00468",12801,"C18 steroids (estrogens) and derivatives
+estrane
+Estrane and derivatives
+Estrogens
+"
+"146","C01494",12805,"Coniferyl alcohol derivatives
+"
+"147","C05441",12814,"Vitamin D2 and derivatives
+Fat-soluble vitamins
+"
+"148","C01514",13258,"Flavones and Flavonols
+flavones
+"
+"149","C01157",13514,"Other amino acids
+"
+"150","C01499",13705,"Acyclic monoterpenoids
+Linear monoterpenes
+"
+"151","C06394",13713,"Cadinane sesquiterpenoids
+Cadinanes
+"
+"152","C05433",13719,"C40 isoprenoids (tetraterpenes)
+Carotenoids
+"
+"153","C01500",13795,"Acyclic monoterpenoids
+Linear monoterpenes
+"
+"154","C00843",13803,"Menthane monoterpenoids
+Cyclic monoterpenes
+"
+"155","C01724",13805,"Cholesterol and derivatives
+"
+"156","C00473",13831,"Retinoids
+Fat-soluble vitamins
+"
+"157","C01585",13900,"Straight chain fatty acids
+Saturated fatty acids
+"
+"158","C17518",15972,"Menthane monoterpenoids
+"
+"159","C08650",16342,"Chalcones and dihydrochalcones
+chalcones
+"
+"160","C16309",16353,"Oxo fatty acids
+"
+"161","C01092",16941,"Oxo fatty acids
+"
+"162","C08285",16949,"Hydroxy fatty acids
+"
+"163","C14079",17132,"Flavan 3-ols
+"
+"164","C08647",17166,"Anthocyanidins
+Anthocyanidins and anthocyanins
+"
+"165","C12139",17324,"Anthocyanidins and anthocyanins
+"
+"166","C12136",17707,"Flavans, Flavanols and Leucoanthocyanidins
+Flavan 3-ols
+"
+"167","C09731",17709,"Proanthocyanidins
+Flavan 3-ols
+"
+"168","C12127",17712,"Flavans, Flavanols and Leucoanthocyanidins
+Flavan 3-ols
+"
+"169","C08606",19096,"C40 isoprenoids (tetraterpenes)
+Carotenoids
+"
+"170","C06098",19872,"C40 isoprenoids (tetraterpenes)
+Carotenoids
+"
+"171","C05608",20853,"Paracoumaryl alcohol derivatives
+"
+"172","C01561",21939,"Vitamin D3 and derivatives
+"
+"173","C00475",21967,"Ribonucleosides
+"
+"174","C08281",21973,"Straight chain fatty acids
+Saturated fatty acids
+"
+"175","C00008",21975,"Ribonucleotides
+"
+"176","C00534",21977,"Water-soluble vitamins
+"
+"177","C08320",21981,"Straight chain fatty acids
+Saturated fatty acids
+"
+"178","C00526",22033,"Deoxyribonucleosides
+"
+"179","C00881",22034,"Deoxyribonucleosides
+"
+"180","C01164",22045,"Vitamin D3 and derivatives
+Cholestane and derivatives
+"
+"181","C00178",22085,"pyrimidines
+"
+"182","C00836",22087,"Sphinganines
+"
+"183","C00075",22092,"Ribonucleotides
+"
+"184","C00380",22314,"pyrimidines
+"
+"185","C00361",22501,"Deoxyribonucleotides
+"
+"186","C00448",22502,"Acyclic farnesane sesquiterpenoids
+Farnesenes
+"
+"187","C00458",22522,"Deoxyribonucleotides
+"
+"188","C04146",22586,"C40 isoprenoids (tetraterpenes)
+Polyterpenoids
+"
+"189","C00235",22597,"C5 isoprenoids (hemiterpenes)
+"
+"190","C01189",22626,"Cholesterol and derivatives
+"
+"191","C00460",22641,"Deoxyribonucleotides
+"
+"192","C00035",22650,"Ribonucleotides
+"
+"193","C00239",22651,"Deoxyribonucleotides
+"
+"194","C00584",22661,"Prostaglandins
+"
+"195","C00364",22662,"Deoxyribonucleotides
+"
+"196","C00705",22673,"Deoxyribonucleotides
+"
+"197","C00044",22690,"Ribonucleotides
+"
+"198","C00363",22691,"Deoxyribonucleotides
+"
+"199","C00942",22712,"3',5'-Cyclic nuclcleotides
+"
+"200","C00909",22724,"Epoxy fatty acids
+Leukotrienes
+"
+"201","C00459",22728,"Deoxyribonucleotides
+"
+"202","C00129",22732,"C5 isoprenoids (hemiterpenes)
+"
+"203","C00376",22739,"Retinoids
+"
+"204","C01120",22757,"Sphingoid base 1-phosphates
+"
+"205","C00365",22767,"Deoxyribonucleotides
+"
+"206","C00286",22786,"Deoxyribonucleotides
+"
+"207","C02198",22795,"Thromboxanes
+thromboxane
+"
+"208","C02934",22808,"Sphing-4-enines (Sphingosines)
+"
+"209","C02593",22833,"Fatty acyl CoAs
+"
+"210","C00131",22837,"Deoxyribonucleotides
+"
+"211","C00112",22846,"Ribonucleotides
+"
+"212","C00655",22850,"Purine alkaloids
+"
+"213","C16361",23017,"Purine alkaloids
+"
+"214","C03427",23258,"C40 isoprenoids (tetraterpenes)
+"
+"215","C00740",23327,"Other amino acids
+"
+"216","C00793",23331,"Other amino acids
+"
+"217","C01735",23360,"Isoquinoline alkaloids
+"
+"218","C05290",23435,"C19 steroids (androgens) and derivatives
+"
+"219","C00353",23540,"Acyclic diterpenoids
+Linear diterpenes
+"
+"220","C00899",24003,"Retinoids
+"
+"221","C05437",24032,"Cholesterol and derivatives
+"
+"222","C15777",24279,"Ergosterols and C24-methyl derivatives
+"
+"223","C15783",24281,"Stigmasterols and C24-ethyl derivatives
+"
+"224","C13861",24459,"Diacylglycerols
+"
+"225","C04216",29002,"Polyterpenoids
+"
+"226","C01230",29003,"Polyterpenoids
+"
+"227","C02325",29444,"Sinapate derivatives
+"
