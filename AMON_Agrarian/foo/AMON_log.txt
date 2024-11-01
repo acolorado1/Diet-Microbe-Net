@@ -1,0 +1,15 @@
+start time: 2024-10-29 01:44:21.045063
+kos_loc: /Users/burkhang/Code_Projs/Diet-Microbe-Net/Data/SampleKOs/noquote_ag_sample.txt
+Number of samples: 1
+Total number of KOs: 2468
+KO json location: /Users/burkhang/Code_Projs/Diet-Microbe-Net/AMON_Agrarian/foo/ko_dict.json
+Total number of reactions: 1524
+RN json location: /Users/burkhang/Code_Projs/Diet-Microbe-Net/AMON_Agrarian/foo/rn_dict.json
+compounds_loc: /Users/burkhang/Code_Projs/Diet-Microbe-Net/Data/Diet/FooDB/Agrarian_FooDB.txt
+Origin table location: /Users/burkhang/Code_Projs/Diet-Microbe-Net/AMON_Agrarian/foo/origin_table.tsv
+KEGG mapper location: /Users/burkhang/Code_Projs/Diet-Microbe-Net/AMON_Agrarian/foo/kegg_mapper.tsv
+Number of cos produced across samples: 1091
+%s pathway enrichment: /Users/burkhang/Code_Projs/Diet-Microbe-Net/AMON_Agrarian/foo/gene_set_1_compound_pathway_enrichment.tsv
+Enrichment clustermap location: /Users/burkhang/Code_Projs/Diet-Microbe-Net/AMON_Agrarian/foo/enrichment_heatmap.png
+finish time: 2024-10-29 02:16:38.461159
+elapsed time: 0:32:17.416096
