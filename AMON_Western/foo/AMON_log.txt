@@ -1,0 +1,15 @@
+start time: 2024-10-29 01:45:36.637425
+kos_loc: /Users/burkhang/Code_Projs/Diet-Microbe-Net/Data/SampleKOs/noquote_we_sample.txt
+Number of samples: 1
+Total number of KOs: 3597
+KO json location: /Users/burkhang/Code_Projs/Diet-Microbe-Net/AMON_Western/foo/ko_dict.json
+Total number of reactions: 1847
+RN json location: /Users/burkhang/Code_Projs/Diet-Microbe-Net/AMON_Western/foo/rn_dict.json
+compounds_loc: /Users/burkhang/Code_Projs/Diet-Microbe-Net/Data/Diet/FooDB/Western_FooDB.txt
+Origin table location: /Users/burkhang/Code_Projs/Diet-Microbe-Net/AMON_Western/foo/origin_table.tsv
+KEGG mapper location: /Users/burkhang/Code_Projs/Diet-Microbe-Net/AMON_Western/foo/kegg_mapper.tsv
+Number of cos produced across samples: 1282
+%s pathway enrichment: /Users/burkhang/Code_Projs/Diet-Microbe-Net/AMON_Western/foo/gene_set_1_compound_pathway_enrichment.tsv
+Enrichment clustermap location: /Users/burkhang/Code_Projs/Diet-Microbe-Net/AMON_Western/foo/enrichment_heatmap.png
+finish time: 2024-10-29 02:26:04.418621
+elapsed time: 0:40:27.781196
